@@ -8,5 +8,6 @@ public class Main2 {
         } else {
             System.out.println("no");
         }
+        System.out.println("the code is computer");
     }
 }
